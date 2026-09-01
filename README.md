@@ -27,7 +27,7 @@ Fatec Osasco — Prof. Dr. Eduardo — 1º Exercício Programa
 .
 ├── README.md                # este arquivo
 ├── Relatorio_Calculadora.pdf # relatório do trabalho (decisões, dificuldades, itens opcionais)
-└── calculadora.c   # código-fonte completo, comentado
+└── calculadora_matrizes.c   # código-fonte completo, comentado
 ```
 
 ## Como compilar e executar (OnlineGDB)
